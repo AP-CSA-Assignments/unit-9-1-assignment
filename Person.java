@@ -4,7 +4,7 @@ public class Person
     private int age;
 
     // TODO: Complete the non-default constructor
-    public Person(String iName, String iAge)
+    public Person(String iName, int iAge)
     {
 
     }
